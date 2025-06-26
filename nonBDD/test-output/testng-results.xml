@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-26T20:29:55 IST" name="Default suite" finished-at="2025-06-26T20:30:03 IST" duration-ms="8393">
+    <groups>
+    </groups>
+    <test started-at="2025-06-26T20:29:55 IST" name="Default test" finished-at="2025-06-26T20:30:03 IST" duration-ms="8393">
+      <class name="Com.nonBDD.GetAssuredNonBDD">
+        <test-method signature="GetRequest()[pri:1, instance:Com.nonBDD.GetAssuredNonBDD@49139829]" started-at="2025-06-26T20:29:55 IST" name="GetRequest" finished-at="2025-06-26T20:29:57 IST" duration-ms="2276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetRequest -->
+        <test-method signature="PostRequest()[pri:2, instance:Com.nonBDD.GetAssuredNonBDD@49139829]" started-at="2025-06-26T20:29:57 IST" name="PostRequest" finished-at="2025-06-26T20:29:58 IST" duration-ms="886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostRequest -->
+        <test-method signature="PutRequest()[pri:3, instance:Com.nonBDD.GetAssuredNonBDD@49139829]" started-at="2025-06-26T20:29:58 IST" name="PutRequest" finished-at="2025-06-26T20:29:59 IST" duration-ms="936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutRequest -->
+        <test-method signature="DeleteRequest()[pri:4, instance:Com.nonBDD.GetAssuredNonBDD@49139829]" started-at="2025-06-26T20:29:59 IST" name="DeleteRequest" finished-at="2025-06-26T20:30:00 IST" duration-ms="894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteRequest -->
+        <test-method signature="VerifyTimeForGetRequest()[pri:5, instance:Com.nonBDD.GetAssuredNonBDD@49139829]" started-at="2025-06-26T20:30:00 IST" name="VerifyTimeForGetRequest" finished-at="2025-06-26T20:30:00 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTimeForGetRequest -->
+        <test-method signature="VerifyInvalidStatusCode()[pri:6, instance:Com.nonBDD.GetAssuredNonBDD@49139829]" started-at="2025-06-26T20:30:00 IST" name="VerifyInvalidStatusCode" finished-at="2025-06-26T20:30:00 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyInvalidStatusCode -->
+        <test-method signature="Verify_Authentication_Without_Credentials()[pri:7, instance:Com.nonBDD.GetAssuredNonBDD@49139829]" started-at="2025-06-26T20:30:00 IST" name="Verify_Authentication_Without_Credentials" finished-at="2025-06-26T20:30:01 IST" duration-ms="551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Authentication_Without_Credentials -->
+        <test-method signature="Verify_Query_Parameters()[pri:8, instance:Com.nonBDD.GetAssuredNonBDD@49139829]" started-at="2025-06-26T20:30:01 IST" name="Verify_Query_Parameters" finished-at="2025-06-26T20:30:01 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Query_Parameters -->
+        <test-method signature="Verify_Response_header()[pri:9, instance:Com.nonBDD.GetAssuredNonBDD@49139829]" started-at="2025-06-26T20:30:01 IST" name="Verify_Response_header" finished-at="2025-06-26T20:30:01 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Response_header -->
+        <test-method signature="InvalidPostData()[pri:10, instance:Com.nonBDD.GetAssuredNonBDD@49139829]" started-at="2025-06-26T20:30:01 IST" name="InvalidPostData" finished-at="2025-06-26T20:30:03 IST" duration-ms="1228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidPostData -->
+        <test-method signature="Valid_Login_Post_Data()[pri:11, instance:Com.nonBDD.GetAssuredNonBDD@49139829]" started-at="2025-06-26T20:30:03 IST" name="Valid_Login_Post_Data" finished-at="2025-06-26T20:30:03 IST" duration-ms="621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Valid_Login_Post_Data -->
+      </class> <!-- Com.nonBDD.GetAssuredNonBDD -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
